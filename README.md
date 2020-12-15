@@ -1,8 +1,5 @@
 # Informatique3_TD7
 TD7 Informatique 3
 
-- `ipywidgets` (version >=7.0.0, <8.0)
-- `traitlets` (version >=4.3.0, <5.0)
-- `traittypes` (Version >=0.2.1, <0.3)
-- `numpy`
-- `pandas`
+https://mybinder.org/v2/gh/zigdim/Informatique3_TD7/a926f236462851125bc49578e1fadd01cf16d1cc
+
